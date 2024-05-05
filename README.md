@@ -20,6 +20,6 @@
 <h2>Sup, I'm Muhammad Cakra</h1>
 <h3>A third-year informatics student at Universitas Brawijaya, interested in mobile development, web development, and UI/UX design.</h3>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cakrapand&show_icons=true&theme=dracula" alt="cakrapand's Github Stats">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cakrapand&layout=compact&theme=dracula" alt="cakrapand's Top Lang">
+
 
 
